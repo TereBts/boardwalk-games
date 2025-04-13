@@ -95,6 +95,27 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+/* Events */
+
+.student-discount {
+    background-color: var(--highlight-color);
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;  
+    max-width: 300px;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+}
+
+.events-btn {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+
 /* Game library cards */
 
 #new-games .card,
